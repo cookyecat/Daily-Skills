@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node.js / local release artifacts
+node_modules/
+*.tgz
+.npmrc
+.DS_Store
